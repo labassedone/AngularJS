@@ -1,5 +1,5 @@
 # AngularJS
-Este trabalho é uma aplicação de um sistema de cadastro de alunos que foi desendolvido na plataforma Cloud9 utilizando AngularJS, PHP e MySQL. É um trabalho inicial, com operações básicas do Angular. Qualquer dúvida entrar em contato.
+Este trabalho é uma aplicação de um sistema de cadastro de alunos que foi desendolvido na plataforma Cloud9 utilizando AngularJS, PHP, MySQL e Materialize v0.97.5 para CSS. É um trabalho inicial, com operações básicas do Angular. Qualquer dúvida entrar em contato.
 
 O sistema permite cadastrar, consultar, editar e excluir dados de alunos.
 
